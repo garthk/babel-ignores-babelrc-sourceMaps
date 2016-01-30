@@ -1,3 +1,7 @@
+Babel issue [T2484], marked `WONTFIX`:
+
+[T2484]: https://phabricator.babeljs.io/T2484
+
 Babel ignores the `sourceMaps` option in `.babelrc` or `package.json`.
 
 Reproduction steps:
